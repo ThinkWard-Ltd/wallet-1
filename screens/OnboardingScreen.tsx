@@ -8,7 +8,7 @@ type Props = {
 
 const OnboardingScreen = ({ navigation }: Props) => (
   <Background position="bottom">
-    <Paragraph bold>Social Wallet for Solana & SPL Tokens</Paragraph>
+    <Paragraph bold>FYFY Wallet for Solana & SPL Tokens</Paragraph>
     <Button mode="contained" onPress={() => navigation.navigate("Set Pin")}>
       Continue
     </Button>

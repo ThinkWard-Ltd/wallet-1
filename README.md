@@ -1,6 +1,6 @@
-# Solana Wallet Cross-Platform App with Expo, Web3 & React Native
+# Solana Wallet Cross-Platform App with Fyfy.io, Web3 & React Native
 
-This is a simple Solana Wallet Cross-Platform App built with Expo, Web3 & React Native to learn about web3.
+This is a Solana Wallet Cross-Platform App built with Fyfy.io, Web3 & React Native to learn about web3.
 
 ## Screens and Features
 
@@ -254,8 +254,8 @@ I think it has been a good introduction to see how Web3 works.
 ## Run it:
 
 ~~~bash
-$ git clone https://github.com/jferrer/expo-solana-wallet.git
-$ cd expo-solana-wallet
+$ git clone https://github.com/fyfylian/wallet.git
+$ cd wallet
 $ yarn install
 $ expo web or expo start
 ~~~
